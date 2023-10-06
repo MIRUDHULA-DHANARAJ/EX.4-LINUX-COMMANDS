@@ -1,9 +1,13 @@
 # OS EX.4-LINUX-COMMANDS
 
 ## AIM:
+
 To study and execute basic UNIX commands.
+
 ## Software requirements:
+
 Linux operating system.
+
 COMMAND1:
 List files and directories
 ```
@@ -230,5 +234,5 @@ Code:
 Output: 
 	Downloads file.zip from the specified URL.
 ```
-RESULT:
+## RESULT:
 Thus basic UNIX commands are studied and executed.
